@@ -1,0 +1,9 @@
+/weights
+/weights2
+/anime-faces
+/generated_images
+/anime-faces.zip
+*.pth
+
+*.png
+**__pycache__**
