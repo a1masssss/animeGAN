@@ -1,10 +1,8 @@
-/weights
-/weights2
 /anime-faces
-/generated_images
 /anime-faces.zip
+/weights
 *.pth
 .DS_Store
 **/.DS_Store
-*.png
 **__pycache__**
+
