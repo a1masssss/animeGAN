@@ -1,6 +1,5 @@
 /anime-faces
 /anime-faces.zip
-/weights
 *.pth
 .DS_Store
 **/.DS_Store
